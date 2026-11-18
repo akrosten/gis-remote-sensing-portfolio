@@ -21,6 +21,6 @@ Additional tools & libraries I have experience with, which aren't showcased in t
    * **Focus:** Spatial scenario modeling comparing urban cooling from converting developed blocks into a City Park versus a forested Natural Area, evaluated against census tract BIPOC and low-income distributions.
 
 4. **[04-nebraska-evapotranspiration](./04-nebraska-evapotranspiration)** — *MODIS & Eddy Covariance Evapotranspiration Modeling (Nebraska)*
-   * **Tools:** Python (`pandas`, `numpy`, `matplotlib`), NASA MODIS (`MOD13` NDVI & `MOD16` Penman-Monteith ET), AmeriFlux Eddy Covariance Data
+   * **Tools:** Python (`pandas`, `numpy`, `matplotlib`), NASA MODIS (`MOD13` NDVI & `MOD16` Penman-Monteith ET), Eddy Covariance Data
    * **Focus:** QA-filtered remote sensing time-series pipeline calibrating an empirical evaporative fraction ($ET_oF$) model across irrigated and rainfed agricultural fields and benchmarking against NASA MOD16 estimates.
-   * **Data:** AmeriFlux flux tower data (US-Ne1, US-Ne2, US-Ne3) and MODIS extracts provided by Dr. Alexandra Konings for Remote Sensing of Hydrology at Stanford University.
+   * **Data:** eddy covariance flux tower data (Ne1, Ne2, Ne3) and MODIS extracts provided by Dr. Alexandra Konings for Remote Sensing of Hydrology at Stanford University.
