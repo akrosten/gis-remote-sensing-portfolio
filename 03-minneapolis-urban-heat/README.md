@@ -9,4 +9,4 @@ Urban heat islands disproportionately expose low-income neighborhoods and commun
 
 ## Key Findings
 * Converting developed urban land into a forested Natural Area generates substantially stronger localized cooling than a traditional turf-dominated City Park.
-* Spatial equity overlays demonstrate that greater aggregate cooling does not guarantee equitable distribution: a single centralized greening intervention reaches only the top 12.5% of census tracts with the highest BIPOC and low-income populations, underscoring the need for distributed, neighborhood-scale urban forestry.
+* Spatial equity overlays demonstrate that greater aggregate cooling does not guarantee equitable distribution: a single centralized greening intervention reaches only 12.5% of census tracts with the highest BIPOC and low-income populations, underscoring the need for distributed, neighborhood-scale urban forestry.
