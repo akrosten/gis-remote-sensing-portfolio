@@ -5,7 +5,7 @@ Accurately estimating agricultural evapotranspiration (ET) across irrigated and 
 
 ## Data
 All input data in `DATA Nebraska Evapotranspiration/` were provided by Dr. Alexandra Konings for Remote Sensing of Hydrology (Stanford University, Winter 2026):
-* **Eddy covariance data:** daily flux tower latent heat flux (LE) and reference ET for sites US-Ne1, US-Ne2 and US-Ne3. Ne1 covers 2008–2012; Ne2 and Ne3 cover 2011–2012.
+* **Eddy covariance data:** daily flux tower latent heat flux (LE) and reference ET for sites Ne1, Ne2 and Ne3. Ne1 covers 2008–2012; Ne2 and Ne3 cover 2011–2012.
 * **NASA MODIS:** `MOD13` 16-day NDVI (250 m) for all three sites and `MOD16` 8-day ET (500 m) for Ne2, with quality-assurance flags.
 
 ## Tools & Workflow

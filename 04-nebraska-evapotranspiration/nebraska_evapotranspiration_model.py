@@ -6,7 +6,7 @@ from pathlib import Path
 ########################################################################################################################
 # LOADING IN THE DATA
 # Data provided by Dr. Alexandra Konings for Remote Sensing of Hydrology (Stanford, Winter 2026):
-# AmeriFlux eddy covariance flux tower and reference ET records for US-Ne1, US-Ne2 and US-Ne3
+# AmeriFlux eddy covariance flux tower and reference ET records for Ne1, Ne2 and Ne3
 # (Mead, NE), plus MODIS MOD13 NDVI and MOD16 ET extracts for the same sites.
 
 # finding the folder where THIS script is saved (sometimes I move stuff on my computer, especially
