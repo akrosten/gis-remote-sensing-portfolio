@@ -1,11 +1,11 @@
-# MODIS & Eddy Covariance Evapotranspiration Modeling (Mead, Nebraska)
+# MODIS & Eddy Covariance Evapotranspiration Modeling (Nebraska)
 
 ## Project Context
-Accurately estimating agricultural evapotranspiration (ET) across irrigated and rainfed croplands is vital for regional water-resource management. This project develops an end-to-end Python remote sensing pipeline comparing satellite-derived vegetation indices and NASA's operational Penman-Monteith ET product (`MOD16`) against ground-based AmeriFlux eddy covariance flux tower observations across three agricultural sites in Mead, Nebraska (Ne1 irrigated continuous maize, Ne2 irrigated maize-soybean rotation, and Ne3 rainfed maize-soybean rotation). This project was prepared for Remote Sensing of Hydrology, taught by Dr. Alexandra Konings at Stanford University during Winter 2026.
+Accurately estimating agricultural evapotranspiration (ET) across irrigated and rainfed croplands is vital for regional water-resource management. This project develops an end-to-end Python remote sensing pipeline comparing satellite-derived vegetation indices and NASA's operational Penman-Monteith ET product (`MOD16`) against ground-based eddy covariance flux tower observations across three agricultural sites in Nebraska (Ne1 irrigated continuous maize, Ne2 irrigated maize-soybean rotation, and Ne3 rainfed maize-soybean rotation). This project was prepared for Remote Sensing of Hydrology, taught by Dr. Alexandra Konings at Stanford University during Winter 2026.
 
 ## Data
 All input data in `DATA Nebraska Evapotranspiration/` were provided by Dr. Alexandra Konings for Remote Sensing of Hydrology (Stanford University, Winter 2026):
-* **AmeriFlux eddy covariance data:** daily flux tower latent heat flux (LE) and reference ET for sites US-Ne1, US-Ne2 and US-Ne3 (Mead, NE). Ne1 covers 2008–2012; Ne2 and Ne3 cover 2011–2012.
+* **Eddy covariance data:** daily flux tower latent heat flux (LE) and reference ET for sites US-Ne1, US-Ne2 and US-Ne3. Ne1 covers 2008–2012; Ne2 and Ne3 cover 2011–2012.
 * **NASA MODIS:** `MOD13` 16-day NDVI (250 m) for all three sites and `MOD16` 8-day ET (500 m) for Ne2, with quality-assurance flags.
 
 ## Tools & Workflow
